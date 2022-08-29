@@ -1,0 +1,1 @@
+Prosty projekt nagrywający dźwięk po naciśnięciu przycisku, oraz odłuchaniu przywitania
