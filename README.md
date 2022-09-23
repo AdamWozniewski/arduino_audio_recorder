@@ -1,1 +1,1 @@
-Prosty projekt nagrywający dźwięk po naciśnięciu przycisku, oraz odłuchaniu przywitania
+Prosty projekt nagrywający dźwięk po podniesieniu słuchawki, użyciu tarczy telefonu, oraz odłuchaniu przywitania. Zakończenie nagrywania odbywa się poprzez odłożenie słuchawki.
